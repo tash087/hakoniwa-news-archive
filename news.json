@@ -3,7 +3,7 @@
     "id": "6-30-2_20-newsrenewal",
     "title": "【お知らせ】ニュースシステムのリニューアル！JSONによる管理方式へ移行しました",
     "date": "2026.06.30",
-    "category": "Update",
+    "category_id": 2, 
     "author": "tash087",
     "content": "<p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">いつも当サイトをご利用いただき、誠にありがとうございます。</p><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 20px;\">この度、ニュース・お知らせの管理システムを大幅にリニューアルいたしました！新しいシステムでは、すべての記事データを<strong>JSON形式</strong>で一元管理し、フロントエンドの<strong>JavaScriptによって動的にページを生成・配信</strong>する方式へ移行しています。</p><h4 style=\"font-size: 16px; font-weight: bold; color: #111111; border-left: 4px solid #555555; padding-left: 10px; margin-bottom: 10px;\">今回のリニューアルによる主な変更点</h4><ul style=\"list-style-type: square; padding-left: 20px; margin-bottom: 20px; color: #444444; line-height: 1.7;\"><li style=\"margin-bottom: 5px;\">データの軽量化による、ページ読み込み速度の向上</li><li style=\"margin-bottom: 5px;\">カテゴリーごとのフィルタリングや並び替えの高速化</li><li style=\"margin-bottom: 5px;\">デザインの統一性と、今後の新機能追加への柔軟な対応</li></ul><p style=\"font-size: 14px; line-height: 1.8; color: #666666;\">今後とも、より見やすく快適なサイトを目指してアップデートを行ってまいります。新しくなったニュースシステムをどうぞよろしくお願いいたします。</p>"
   }
