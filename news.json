@@ -1,82 +1,10 @@
 [
   {
-    "id": "1776755027",
-    "title": "【お知らせ】一部ニュースの公開先を「箱庭スタジオニュースサイト」へ移行します",
-    "date": "2026.04.21",
-    "category": "お知らせ",
+    "id": "6-30-2_20-newsrenewal",
+    "title": "【お知らせ】ニュースシステムのリニューアル！JSONによる管理方式へ移行しました",
+    "date": "2026.06.30",
+    "category": "Update",
     "author": "tash087",
-    "content": "<p style=\"font-size: 1.05rem; margin-bottom: 20px;\">日頃より箱庭スタジオおよび箱庭クラフトをご愛顧いただき、ありがとうございます。</p><p>このたび、これまでDiscordおよび箱庭クラフトサイトにて公開してきたニュースのうち、<strong>箱庭クラフト関連以外</strong>の情報については、順次「箱庭スタジオニュースサイト」へ移行することとなりました。</p><h2>📦 移行の背景と目的</h2><ul><li>情報公開先の一本化による整理</li><li>箱庭クラフトをプレイしていない方でも、スタジオ全体のニュースにアクセスしやすくする</li><li>今後のサービス拡充に向けた基盤づくり</li></ul><h2>🔗 箱庭スタジオニュースサイト</h2><p><strong>URL：</strong>（準備でき次第お知らせします）</p><div class=\"box-blue\"><strong>📌 補足</strong><br>現時点ではURL調整中のため、公開まで今しばらくお待ちください。</div><h2>📌 注意事項</h2><ul><li>箱庭クラフトに関する重要なお知らせ（サーバー停止など）は、引き続き<strong>Discordおよび箱庭クラフトサイト</strong>で即時通知します</li><li>ニュースサイトへの移行は順次実施し、完了までしばらく期間がかかる場合があります</li><li>移行完了後も、Discordにて簡単な案内（リンク付き）を投稿する予定です</li></ul><div class=\"owner-message\"><div class=\"name\">箱庭スタジオ 運営一同</div><p>今後とも箱庭スタジオをよろしくお願いいたします。<br>より良い情報発信環境を目指して改善を続けてまいります。</p></div>"
-  },
-  {
-    "id": "1776754678",
-    "title": "新サービス「hknw.link（箱庭リンク）」をリリースしました",
-    "date": "2026.04.21",
-    "category": "お知らせ",
-    "author": "tash087",
-    "content": "<p>このたび、箱庭スタジオの新サービスとして、遊び心のある短縮URLサービス「hknw.link（箱庭リンク）」の提供を開始しました。</p><h2>🎯 まとめ</h2><div class=\"box\" style=\"text-align: center;\"><strong>「味気ないURL短縮という作業を、箱庭にパッキングする体験に変え、さらにデータの裏付けもしっかり行える」</strong></div><p style=\"text-align: center;\">実用性と楽しさを兼ね備えたサービスです。ぜひ一度お試しください。</p><div style=\"text-align: center; margin: 32px 0 24px;\"><a href=\"https://hknw.link\" target=\"_blank\" class=\"btn\">🔗 サービスURL：https://hknw.link</a></div><div class=\"owner-message\"><div class=\"name\">鯖主 tash087 より</div><p>「URL短縮って地味な作業だけど、もっと楽しくできないかな？」という思いつきから生まれました。<br>ガムテープのアニメーション、地味にこだわったので見てほしいです 📦✨<br>フィードバックや要望があれば、ぜひ教えてください！</p></div>"
-  },
-  {
-    "id": "1776611800",
-    "title": "【重要】「HAKONIWA Studio」始動と今後の規約改定スケジュールについて",
-    "date": "2026.04.20",
-    "category": "お知らせ",
-    "author": "運営チーム",
-    "content": "<p>箱庭クラフト住民の皆様、こんにちは。運営チームです。<br><br>この度、「箱庭クラフト」の運営・開発チームを母体としたクリエイティブギルド「HAKONIWA Studio（箱庭スタジオ）」が正式に始動いたしました。</p><div class=\"box\"><p><strong>■ 規約改定スケジュール</strong></p><ul><li><strong>新規約の施行：</strong> 2026年5月中旬予定</li></ul><p style=\"font-size: 0.85rem; color: #64748b; margin-top: 10px;\">※改訂内容の詳細は、後日改めて公式サイトにて告知いたします。</p></div><p style=\"font-size: 0.95rem;\">※公式サイトは現在開発中の段階（Under Construction）を含んでおり、一部アニメーション等はテスト実装のものです。表示上の不具合があれば、お手数ですが <strong>#サポート窓口</strong> までご報告ください。</p><h3>📝 鯖主（Studio代表）より</h3><p>私たちは「箱庭クラフト」という場所で、多くの試行錯誤を繰り返してきました。そこで得た知見を世界へ繋げるため、このスタジオを設立しました。<br><br>まだ始動したばかりの小さな組織ですが、4人の専門性が交差する場所から、誰も見たことがない景色を作っていきます。これからの「箱庭」の進化にご期待ください。</p><div style=\"margin-top: 50px; padding-top: 20px; border-top: 2px solid #e2e8f0; text-align: right;\"><p style=\"font-size: 0.9rem; color: #718096; margin: 0;\">Representing HAKONIWA Studio</p></div>"
-  },
-  {
-    "id": "1776516041",
-    "title": "【重要】独自開発のルール同意システム「RuleAgree」導入と参加手順の変更について",
-    "date": "2026.04.18",
-    "category": "重要",
-    "author": "箱庭クラフト運営チーム",
-    "content": "<p>箱庭クラフト運営チームです。サーバーの健全なコミュニティ維持と、ルール把握の徹底を目的として、独自開発のカスタムプラグイン 「RuleAgree」 を導入いたしました。</p><table style=\"width: 100%; border-collapse: collapse; font-size: 0.9rem; color: #475569;\"><tr><td style=\"padding: 8px; border-bottom: 1px solid #e2e8f0; font-weight: bold; width: 120px;\">プラグイン名</td><td style=\"padding: 8px; border-bottom: 1px solid #e2e8f0;\">RuleAgree (v1.0.0)</td></tr><tr><td style=\"padding: 8px; border-bottom: 1px solid #e2e8f0; font-weight: bold;\">データ保存</td><td style=\"padding: 8px; border-bottom: 1px solid #e2e8f0;\">SQLiteによる永続化（再ログイン時の再同意不要）</td></tr></table><div style=\"margin-top: 40px; padding-top: 20px; border-top: 1px solid #e2e8f0; text-align: right;\"><p style=\"font-size: 0.95rem; color: #64748b; margin-bottom: 5px;\">今後も「箱庭クラフト」をより安全で快適な場所にできるよう、改善に努めてまいります。</p><p style=\"font-weight: bold; color: #1e293b;\">箱庭クラフト運営チーム</p></div>"
-  },
-  {
-    "id": "1775485648",
-    "title": "【完了】AdminShopおよび貢献チケット交換所のメンテナンス終了",
-    "date": "2026.04.06",
-    "category": "メンテナンス",
-    "author": "tash087",
-    "content": "<p>本日 11:45 より実施しておりました緊急メンテナンスは、<strong>18:00 をもちまして無事終了いたしました。</strong></p><p>作業時間中、皆様には多大なるご不便をおかけしましたことを深くお詫び申し上げます。</p><div style=\"background: #f0fdf4; border: 1px solid #bbf7d0; padding: 20px; border-radius: 12px; margin: 25px 0;\"><h3 style=\"margin-top: 0; color: #166534; font-size: 1.1rem;\">🛠️ 修正内容</h3><ul style=\"line-height: 1.8; margin-bottom: 0; color: #14532d;\"><li><strong>ガチャ機構の強化：</strong> 保護設定を再点検・強化し、脆弱性を修正しました。</li><li><strong>システムの一新：</strong> 「貢献チケット交換所」に、より安全に交換が行える新仕組みを導入しました。</li></ul></div><p style=\"text-align: center; font-weight: bold; color: #475569;\">✅ 現在は通常通りご利用いただけます。</p>"
-  },
-  {
-    "id": "1775485592",
-    "title": "【報告】不正行為への対処および脆弱性の修正完了について",
-    "date": "2026.04.05",
-    "category": "重要",
-    "author": "tash087",
-    "content": "<p>箱庭クラフト住民の皆様、こんにちは。鯖主の tash087 です。<br><br>Shopワールド内「AdminShopスターターキット売り場」および「貢献チケット交換所」において、一部の新規プレイヤーによる脆弱性を突いた不正行為を確認いたしました。運営チームにて調査を行い、現在は全ての処置および修正が完了しております。</p><h3>⚖️ 当該プレイヤーへの厳正な対処</h3><div style=\"background: #f8fafc; border-left: 5px solid #4a5568; padding: 15px 20px; border-radius: 4px; margin: 20px 0;\"><ul style=\"margin: 0; padding-left: 20px; font-size: 0.95rem; line-height: 1.8;\"><li><strong>対象：</strong> 新規プレイヤー 3名（MCID非公開）</li><li><strong>処置内容：</strong> 所持アイテムの全没収、および盗まれたアイテムの回収・復旧</li><li><strong>今後の対応：</strong> 行為の深刻さを鑑み、当該プレイヤー3名の<strong>BAN処置</strong>を継続いたします。</li></ul></div><p>箱庭クラフトでは、いかなるワールドにおいても窃盗およびそれに準ずる行為は一切禁止しております。ルールを逸脱する行為に対しては、今後も厳正に対処してまいります。</p><div style=\"margin-top: 40px; padding-top: 20px; border-top: 1px solid #e2e8f0; text-align: right;\"><p style=\"font-weight: bold; color: #2d3748;\">鯖主 tash087</p></div>"
-  },
-  {
-    "id": "1775455640",
-    "title": "【ガイド】新・貢献チケット交換所の利用方法について",
-    "date": "2026.04.06",
-    "category": "ガイド",
-    "author": "tash087",
-    "content": "<p>システム刷新に伴い、貢献チケットの交換手順が変更となりました。不正防止とスムーズな取引のため、利用前に必ずご一読ください。</p><div style=\"background: #fff; border: 1px solid #e5e7eb; padding: 20px; border-radius: 8px; margin: 20px 0;\"><h3 style=\"margin-top: 0; color: #1f2937;\">📝 新しい利用手順</h3><ol style=\"line-height: 2; color: #4b5563;\"><li><strong>チケットの受け取り：</strong> 通常通り運営より「貢献チケット」を受け取ります。</li><li><strong>専用チケットへの交換：</strong> 入口の看板より「専用チケット交換所」へ移動します。<br><small>※3枚以上のアイテムが対象です。1枚のアイテムはそのまま利用可能です。</small></li><li><strong>チケット売却：</strong> 移動先で欲しいアイテムの枚数に対応したガチャへ行き、チケットを交換します。</li><li><strong>アイテムの受け取り：</strong> 「戻る看板」で入口に戻り、入手した専用チケットを専用ガチャで使用します。</li></ol></div><div style=\"background: #f1f8e9; border: 1px solid #c8e6c9; padding: 20px; border-radius: 8px;\"><p style=\"font-size: 0.95rem; line-height: 1.6; color: #33691e; margin-bottom: 0;\">新システムへの移行により、より安心してショップ機能をお楽しみいただけるようになりました。今後とも箱庭クラフトをよろしくお願いいたします。</p><p style=\"text-align: right; font-weight: bold; margin-top: 10px; color: #33691e;\">鯖主 tash087</p></div>"
-  },
-  {
-    "id": "1775030652",
-    "title": "【お知らせ】運営紹介ページをリニューアル！デザイン刷新とSNSリンクを追加",
-    "date": "2026.04.01",
-    "category": "お知らせ",
-    "author": "tash087",
-    "content": "<p>箱庭クラフト住民の皆様、こんにちは。鯖主の tash087 です。<br><br>この度、箱庭クラフトを支えるスタッフ陣をより詳しく知っていただくため、「運営紹介ページ」を大幅にリニューアルいたしました！</p><div style=\"text-align: center; margin: 30px 0;\"><a href=\"#\" style=\"display: inline-block; background: #0369a1; color: #fff; padding: 12px 30px; border-radius: 8px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 0 #074e73;\">運営紹介（スタッフ一覧）を見る</a><p style=\"font-size: 0.8rem; color: #64748b; margin-top: 10px;\">※個別ページは <code>member?=スタッフ名</code> の形式でアクセス可能です。</p></div><h3>📝 鯖主より</h3><p>箱庭クラフトを支えるスタッフ一人ひとりの「顔」が見える運営を目指しています。システム、技術、サポート、建築。それぞれの分野で情熱を持って活動するメンバーを、ぜひチェックしてみてください。</p><div style=\"background: #f8fafc; border-top: 2px solid #e2e8f0; padding: 20px; margin-top: 40px;\"><p style=\"font-size: 0.95rem; line-height: 1.6; color: #475569; margin-bottom: 0;\">透明性のある運営を通じて、皆様にさらに安心して楽しんでいただけるサーバーを築いてまいります。<br>今後とも、箱庭クラフトをよろしくお願いいたします。</p><p style=\"text-align: right; font-weight: bold; margin-top: 10px; color: #0369a1;\">鯖主 tash087</p></div>"
-  },
-  {
-    "id": "1774988038",
-    "title": "【緊急】運営ルーム占拠および公式キャラ実写化に関するご報告（高解像度化の失敗）",
-    "date": "2026.04.01",
-    "category": "重要",
-    "author": "tash087",
-    "content": "<p>箱庭クラフト住民の皆様、大変なことが起きました。<br><br>本日未明、鯖主 tash087 による過度な高画質化設定（50,000dpi）の試行中、公式キャラ「はこにわちゃん」が想定外の形で実体化。現在、運営ルームが占拠されております。</p><div style=\"background: #fff3cd; border: 1px solid #ffeeba; padding: 15px; border-radius: 4px; margin: 25px 0;\"><p style=\"margin: 0; font-weight: bold; color: #856404;\">住民の皆様へ：衝撃的な姿となっておりますが、これは現時点での「仕様」です。</p></div><div style=\"text-align: center; margin: 40px 0;\"><p style=\"font-weight: bold; margin-bottom: 15px;\">▼ その目で「真真」をお確かめください</p><a href=\"https://uni-guild.com/sh/?id=character\" target=\"_blank\" style=\"display: inline-block; background: #ff4d4d; color: #fff; padding: 15px 40px; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 1.1rem; box-shadow: 0 4px 0 #c0392b;\">【閲覧注意】実写版はこにわちゃんを確認</a></div><div style=\"border-top: 1px solid #eee; margin-top: 50px; padding-top: 20px; font-size: 0.9rem; color: #999; text-align: center;\"><p>#箱庭クラフト #実写化おじさん ※エイプリルフール企画2026</p><p style=\"margin-top: 10px;\">※本日は4月1日です。運営ルームは...</p></div>"
-  },
-  {
-    "id": "1774971557",
-    "title": "【重要】ショップ区画の契約更新ルールおよび空き状況のお知らせ（2026/04/01時点）",
-    "date": "2026.04.01",
-    "category": "重要",
-    "author": "tash087",
-    "content": "<p>箱庭クラフト住民の皆様、こんにちは。鯖主の tash087 です。</p><p>Shopワールドにおける店舗運営を円滑に行うため、改めて「契約更新ルール」の徹底をお願いいたします。期限を過ぎた店舗については契約満了とし、自動的に区画が開放されます。</p><div style=\"background: #f8fafc; border: 1px solid #cbd5e1; padding: 20px; margin: 20px 0;\"><strong>【ガチャ商店街】</strong><ul style=\"font-size: 0.85rem; padding-left: 20px; margin-top: 10px;\"><li>1, 2番：永久契約（運営）</li><li>3, 9番：契約中</li><li>その他：空き</li></ul></div><p style=\"text-align: center;\"><a href=\"https://uni-guild.com/shop/\" target=\"_blank\" style=\"text-decoration: underline; font-weight: bold; color: #2563eb;\">詳細な区画番号の確認はこちら</a></p><div style=\"background: #f8fafc; border-top: 2px dashed #cbd5e1; padding: 20px; margin-top: 40px;\"><p style=\"font-size: 0.95rem; line-height: 1.6; color: #475569;\">「まだ看板が残っているから大丈夫」と放置せず、必ず該当月の最終週までに更新を完了させてください。一度消滅した店舗を元に戻すことはできません。<br><br>活気ある商店街を維持するため、皆様のご協力をお願いいたします。</p><p style=\"text-align: right; font-weight: bold; margin-top: 10px; color: #1e293b;\">鯖主 tash087</p></div>"
+    "content": "<p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 15px;\">いつも当サイトをご利用いただき、誠にありがとうございます。</p><p style=\"font-size: 15px; line-height: 1.8; color: #333333; margin-bottom: 20px;\">この度、ニュース・お知らせの管理システムを大幅にリニューアルいたしました！新しいシステムでは、すべての記事データを<strong>JSON形式</strong>で一元管理し、フロントエンドの<strong>JavaScriptによって動的にページを生成・配信</strong>する方式へ移行しています。</p><h4 style=\"font-size: 16px; font-weight: bold; color: #111111; border-left: 4px solid #555555; padding-left: 10px; margin-bottom: 10px;\">今回のリニューアルによる主な変更点</h4><ul style=\"list-style-type: square; padding-left: 20px; margin-bottom: 20px; color: #444444; line-height: 1.7;\"><li style=\"margin-bottom: 5px;\">データの軽量化による、ページ読み込み速度の向上</li><li style=\"margin-bottom: 5px;\">カテゴリーごとのフィルタリングや並び替えの高速化</li><li style=\"margin-bottom: 5px;\">デザインの統一性と、今後の新機能追加への柔軟な対応</li></ul><p style=\"font-size: 14px; line-height: 1.8; color: #666666;\">今後とも、より見やすく快適なサイトを目指してアップデートを行ってまいります。新しくなったニュースシステムをどうぞよろしくお願いいたします。</p>"
   }
 ]
